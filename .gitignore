@@ -1,2 +1,7 @@
 key
 key.pub
+day?/part?/out/**
+day?/part?/CMakeLists.txt
+day?/part?/CMakePresets.json
+day?/part?/.vscode
+
